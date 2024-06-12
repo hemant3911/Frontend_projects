@@ -1,1 +1,1 @@
-# Frontend_projects
+# Calculator using HTML, CSS, JavaScript
